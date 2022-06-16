@@ -1,0 +1,15 @@
+.todo-container {
+  display: flex;
+  justify-content: center;
+
+  &__item {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-top: 20px;
+    height: 40px;
+    width: 80%;
+    border: 2px solid hotpink;
+    background-color: yellow;
+  }
+}
