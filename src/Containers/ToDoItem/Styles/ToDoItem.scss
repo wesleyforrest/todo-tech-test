@@ -5,11 +5,21 @@
   &__item {
     display: flex;
     align-items: center;
-    justify-content: center;
+    justify-content: space-between;
     margin-top: 20px;
     height: 40px;
     width: 80%;
     border: 2px solid hotpink;
     background-color: yellow;
+    border-radius: 10px;
+  }
+
+  &__item-text {
+    color: peru;
+  }
+
+  &__item-btn {
+    color: magenta;
+    height: 100%;
   }
 }
