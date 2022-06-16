@@ -1,8 +1,8 @@
-1. Create components
+1. Create components - DONE
 
    - Button (Add, Delete, Reset?), ToDoItem, InputField, Reset, CheckBox
 
-2. Link Components
+2. Link Components - DONE
 
    - App
      - InputField
@@ -13,7 +13,7 @@
      - Reset
        - Button (Reset)
 
-3. Style basic components
+3. Style basic components - DONE
 
    - Mobile design so use @mediaQuery
 

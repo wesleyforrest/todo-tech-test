@@ -11,8 +11,8 @@ const InputField = (props) => {
         <input
           className="form__input"
           type="text"
-          placeholder="Add your todo item here..."
-          onSubmit={handleSubmit}
+          //   placeholder="Add your todo item here..."
+          //   onSubmit={handleSubmit}
         />
         <button className="form__add add-btn">+</button>
       </form>
