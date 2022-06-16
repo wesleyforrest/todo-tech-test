@@ -6,7 +6,10 @@ const ToDoItem = () => {
     <div className="todo-container">
       <div className="todo-container__item">
         <h1 className="todo-container__item-text">Hello</h1>
-        <button className="todo-container__item-btn del-btn">Del</button>
+        <input
+          className="todo-container__item-checkbox checkbox"
+          type="checkbox"
+        />
       </div>
     </div>
   );
